@@ -1,0 +1,20 @@
+{
+  "name": "restautants",
+  "version": "1.0.0",
+  "description": "Restaurant APIS",
+  "main": "restuarants.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhargava",
+  "license": "ISC",
+  "dependencies": {
+    "apidoc": "^0.17.5",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "mysql": "^2.13.0",
+    "path": "^0.12.7"
+  }
+}
