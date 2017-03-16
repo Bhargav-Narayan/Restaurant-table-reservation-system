@@ -3,8 +3,8 @@ var mysql = require('mysql'); // Require mysql module
 // Setup mysql connection. 
 var connection = mysql.createConnection({
     host: 'localhost',
-    user: 'root',
-    password: 'BUddy007@#',
+    user: 'user_name',
+    password: 'password',
     database: 'restaurants'
 });
 
